@@ -4,11 +4,3 @@
 # Project_Test_Project_2
 <h3><a href="https://jmeterproject2.netlify.app/"> Click here to see the Project 2 report </a></h3>
 
-Importent Note
-1.What is JMeter?
-Performance test application
-Build using Java
-Free & Open Source
-Recording
-CLI
-Reports
