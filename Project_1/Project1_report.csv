@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643903917185,13087,Home Page,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 13,087 milliseconds, but should not have lasted longer than 1,000 milliseconds.",725678,243,1,1,https://abstracta.us/blog/,9025,0,5098
+1643903917185,9125,Home Page-0,301,Moved Permanently,Thread Group 1-1,text,true,,1076,121,1,1,https://abstracta.us/blog,9025,0,5098
+1643903926314,3958,Home Page-1,200,OK,Thread Group 1-1,text,true,,724602,122,1,1,https://abstracta.us/blog/,2215,0,0
+1643903930277,264,Insights,200,OK,Thread Group 1-1,text,true,,10916,151,1,1,https://abstracta.us/insights/guide-continuous-testing/,264,0,0
+1643903930542,278,Company,200,OK,Thread Group 1-1,text,true,,11367,131,1,1,https://abstracta.us/why-us/company,278,0,0
+1643903930820,295,Ecommerce,200,OK,Thread Group 1-1,text,true,,9382,137,1,1,https://abstracta.us/industries/ecommerce,295,0,0
+1643903931117,271,Contact-us,200,OK,Thread Group 1-1,text,false,"The result was the wrong size: It was 7,321 bytes, but should have been greater than 9,000 bytes.",7321,127,1,1,https://abstracta.us/contact-us,271,0,0
